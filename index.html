@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <!-- Displays site properly based on user's device -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+
+  <title>Frontend Mentor | Base Apparel coming soon page</title>
+</head>
+
+<body>
+  <main class="main-container animate__animated animate__fadeInDown">
+    <header class="logo">
+      <img src="images/logo.svg" alt="Base Apparel logo">
+    </header>
+
+    <section id="new-content" class="inner-container">
+      <section class="right-content"></section>
+
+      <section class="left-content">
+        <div class="text-content">
+          <div class="intro">
+            <h1>
+              <span class="color-text">We're</span><br />
+              <span class="dark-text">coming<br />soon</span>
+            </h1>
+          </div>
+          <p class="intro-text">
+            Hello fellow shoppers! We're currently building our new fashion store. Add your email below to stay up-to-date with announcements and our launch deals.
+          </p>
+        </div>
+
+        <form action="" class="email-address">
+          <div id="email-content" class="email-container">
+            <label for="email"></label>
+            <input type="email" name="email" id="email" placeholder="Email Address" aria-label="Email Address" required/>
+            <button type="submit" id="submit-button" class="animate__animated animate__flash animate__repeat-3	3">
+              <svg xmlns="http://www.w3.org/2000/svg" width="12" height="20" aria-hidden="true">
+                <path fill="none" stroke="#FFF" stroke-width="2" d="M1 1l8.836 8.836L1 18.671"/>
+              </svg>
+            </button>
+          </div>
+          <small class="error-message" role="alert"></small>
+        </form>
+      </section>
+    </section>
+  </main>
+
+  <footer>
+    <p class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. Coded by <a href="#">Nandini</a>.
+    </p>
+  </footer>
+
+  <script src="./script.js"></script>
+</body>
+
+</html>
