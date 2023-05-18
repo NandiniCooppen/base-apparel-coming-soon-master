@@ -32,8 +32,8 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ### Links
 
-- Solution URL: [Base Apparel coming soon page]()
-- Live Site URL: [Base Apparel coming soon page]()
+- Solution URL: [Base Apparel coming soon page](https://github.com/NandiniCooppen/base-apparel-coming-soon-master)
+- Live Site URL: [Base Apparel coming soon page](https://nandinicooppen-base-apparel-page.netlify.app/)
 
 ## My process
 
@@ -44,7 +44,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 - Mobile first approach
 - CSS flexbox
 - CSS custom properties
-- CSS animation[using Animate.css]( https://animate.style/)
+- CSS animation [using Animate.css]( https://animate.style/)
 
 - Modern Javascript 
 - modularity
