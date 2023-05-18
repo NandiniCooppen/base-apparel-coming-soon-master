@@ -27,8 +27,8 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ### Mobile
 
-![](./screenshot/screenshotmobile.png)
-![](./screenshot/screenshotmobileerror.png)
+<img src="./screenshot/screenshotmobile.png" width="40%" />
+<img src="./screenshot/screenshotmobileerror.png" width="40%" />
 
 ### Links
 
